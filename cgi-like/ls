@@ -1,0 +1,3 @@
+#!/bin/bash
+# A simple script that lists files with optional arguments
+ls "$@"
